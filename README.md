@@ -3,7 +3,7 @@
 
 # 1. **설계**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f645c229-c5aa-4165-802e-a2c8542cccef/Untitled.png)
+![image](https://user-images.githubusercontent.com/56223389/131798032-d5a64caa-ee88-461e-932e-9021b47a9131.png)
 
 ## 설계 및 출력화면
 
