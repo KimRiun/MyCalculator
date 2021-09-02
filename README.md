@@ -4,15 +4,15 @@
 ### 목차
 1. 설계
     설계 및 출력화면
-        설계
-        출력화면
+        설계  
+        출력화면  
 2. 코드 설명
-    1) class CalculatorMain
-    2) class CalculatorEvent
-        전체코드
-        필드
-        코드흐름 설명
-        코드 흐름 및 기능
+    1) class CalculatorMain  
+    2) class CalculatorEvent  
+        전체코드  
+        필드  
+        코드흐름 설명  
+        코드 흐름 및 기능  
 
 
 # 1. **설계**
