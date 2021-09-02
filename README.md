@@ -16,7 +16,7 @@
 
 
 # 1. **설계**
-![image](https://user-images.githubusercontent.com/56223389/131801279-d51035d8-904e-4db4-943c-6f707d68c8bf.png)
+![image](https://user-images.githubusercontent.com/56223389/131802176-c6ed03d6-d2e3-4460-93e6-281a27015006.png)
 
 ## 설계 및 출력화면
 
@@ -45,13 +45,13 @@
 
     두번째 줄에 수식의 결과를 표시한다.
 
-    ![image](https://user-images.githubusercontent.com/56223389/131798192-d4adcfa0-1508-4aa2-88c1-130f9845f650.png)
+    ![image](https://user-images.githubusercontent.com/56223389/131802219-068f1d8f-0436-49a4-bbf8-8804d3d9b4c8.png)
 
 3. DEL 버튼
 
     JLabel에 표시된 수식의 맨 뒤부터 한글자씩 지운다.
 
-    ![image](https://user-images.githubusercontent.com/56223389/131798241-a650abca-fc53-4ced-8756-af59f5bcee83.png)
+    ![image](https://user-images.githubusercontent.com/56223389/131802246-862a44a2-a18d-421e-9178-1894b81cfff0.png)
 
 4. JTextField
 
@@ -63,13 +63,13 @@
 
     JTextField에 표시된 수식의 결과를 두번째 줄(JLabel)에 표시한다.
 
-    ![image](https://user-images.githubusercontent.com/56223389/131798342-06c752da-c2c4-4f19-859a-3709ca4194de.png)
+    ![image](https://user-images.githubusercontent.com/56223389/131802284-25f44d05-aa5b-498a-8fe2-2f21805361c1.png)
 
 6. C 버튼
 
     첫번째 줄(JTextField)과 두번째 줄(JLabel)의 수식을 모두 초기화한다.
 
-    ![image](https://user-images.githubusercontent.com/56223389/131798373-6cc31ebe-b88c-4ab9-9950-52c0c9798611.png)
+    ![image](https://user-images.githubusercontent.com/56223389/131802315-93f54992-0cc8-4d62-bb52-7413b09b2e20.png)
 
 # 2. **코드 설명**
 
