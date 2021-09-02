@@ -29,7 +29,7 @@ public class CalculatorEvent {
     // 그리드백 계산기
     public CalculatorEvent(){
 
-        f = new JFrame (" Calculator");
+        f = new JFrame ("My Calculator - KimRiun");
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         f.setLayout (new BorderLayout ());
         f.setSize (400, 500);
