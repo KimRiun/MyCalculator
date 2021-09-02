@@ -117,7 +117,7 @@ main함수를 포함하고, CalculatorEvent 객체를 생성하는 클래스이�
         // 그리드백 계산기
         public CalculatorEvent(){
 
-            f = new JFrame ("Grid Calculator - 김경륜 IT공학전공 1814996");
+            f = new JFrame ("My Calculator - KimRiun");
             f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
             f.setLayout (new BorderLayout ());
             f.setSize (400, 500);
