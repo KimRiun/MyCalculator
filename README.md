@@ -16,8 +16,7 @@
 
 
 # 1. **설계**
-
-![image](https://user-images.githubusercontent.com/56223389/131798032-d5a64caa-ee88-461e-932e-9021b47a9131.png)
+![image](https://user-images.githubusercontent.com/56223389/131801279-d51035d8-904e-4db4-943c-6f707d68c8bf.png)
 
 ## 설계 및 출력화면
 
