@@ -1,6 +1,20 @@
 # MyCalculator
 사칙 연산과 지우기 같은 기본적인 기능이 있는 계산기에 사용자가 직접 수식을 입력할 수 있는 입력란도 추가되어 있다.
 
+### 목차
+1. 설계
+    설계 및 출력화면
+        설계
+        출력화면
+2. 코드 설명
+    1) class CalculatorMain
+    2) class CalculatorEvent
+        전체코드
+        필드
+        코드흐름 설명
+        코드 흐름 및 기능
+
+
 # 1. **설계**
 
 ![image](https://user-images.githubusercontent.com/56223389/131798032-d5a64caa-ee88-461e-932e-9021b47a9131.png)
