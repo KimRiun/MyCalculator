@@ -1,7 +1,6 @@
 # MyCalculator
 사칙 연산과 지우기 같은 기본적인 기능이 있는 계산기에 사용자가 직접 수식을 입력할 수 있는 입력란도 추가되어 있다.
 
-
 # 1. **설계**
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f645c229-c5aa-4165-802e-a2c8542cccef/Untitled.png)
